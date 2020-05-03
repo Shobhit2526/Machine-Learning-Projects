@@ -2,7 +2,7 @@ HEART - DISEASE - UCI
 This repository contains the solution of the Accuracy: Heart Disease UCI
 
 To know more about the competition please follow the link: https://www.kaggle.com/ronitf/heart-disease-uci
--- Installations required: I am using Python 3.6.0 for this project with Jupyter notebook as Integrated Development Environment(IDE). You need to install the following libraries.
+-- Installations required: I am using Python 3 for this project with Jupyter notebook as Integrated Development Environment(IDE). You need to install the following libraries.
 
 NumPy (for documentation:http://www.numpy.org/)
 Pandas (for documentation:http://pandas.pydata.org/)
