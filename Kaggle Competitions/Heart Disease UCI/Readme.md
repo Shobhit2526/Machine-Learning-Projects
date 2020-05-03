@@ -1,4 +1,4 @@
-HEART - DISEASE - UCI
+# HEART - DISEASE - UCI
 This repository contains the solution of the Accuracy: Heart Disease UCI
 
 To know more about the competition please follow the link: https://www.kaggle.com/ronitf/heart-disease-uci
