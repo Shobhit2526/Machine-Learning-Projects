@@ -17,4 +17,5 @@ Matplotlib.pyplot (for documentation:https://matplotlib.org/api/pyplot_api.html)
 
 train.csv (https://www.kaggle.com/c/titanic/data?select=train.csv)
 test.csv (https://www.kaggle.com/c/titanic/data?select=test.csv)
+
 -- Aim of the project: The goal for the competition is to predict the passenger survived or not.
