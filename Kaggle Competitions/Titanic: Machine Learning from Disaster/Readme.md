@@ -1,4 +1,4 @@
-
+Titanic: Machine Learning from Disaster
 This repository contains the solution of the Titanic: Machine Learning from Disaster
 
 To know more about the competition please follow the link: https://www.kaggle.com/c/titanic
