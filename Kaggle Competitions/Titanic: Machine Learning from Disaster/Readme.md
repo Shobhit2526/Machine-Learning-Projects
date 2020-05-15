@@ -1,4 +1,4 @@
-Titanic: Machine Learning from Disaster
+#Titanic: Machine Learning from Disaster
 
 This repository contains the solution of the Titanic: Machine Learning from Disaster
 
