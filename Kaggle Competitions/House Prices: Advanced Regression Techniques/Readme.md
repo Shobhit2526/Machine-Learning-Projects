@@ -9,9 +9,8 @@ To know more about the competition please follow the link: https://www.kaggle.co
 # Pandas (for documentation:http://pandas.pydata.org/)
 # Scikit-Learn (for documentation:http://scikit-learn.org/stable/)
 # Matplotlib.pyplot (for documentation:https://matplotlib.org/api/pyplot_api.html)
--- Code of the project: The code contains in the 'housing_price_prediction.ipynb' file.
 
--- Data for the problem: The training data is contained in 'train.csv' file and the testing data is contained in the 'test.csv' file. 'Data Description.txt' is the file which contains the explanations of the fields available in the other data files.
+-- Code of the project: The code contains in the 'housing_price_prediction.ipynb' file.
 
 -- To download the data please follow the links:
 
